@@ -11,6 +11,7 @@ When you go to the [Drupal login page](http://staging.new.evergreen.edu/user), y
 The Workbench is your entry point to all of the content that you work with on the Evergreen site. If you're logged in, you can return to My Workbench from anywhere on Evergreen's main site by clicking *Workbench > My Workbench*.
 
 My Workbench shows a few things, including:
+
 * **My Most Recent Edits:** Last five pages that you have edited.
 * **Create Content:** Create an Article or Basic Page. Some users also are able to create news posts or upload files.
 * **My Site Section Content:** Longer list of user's previous page edits and updates
