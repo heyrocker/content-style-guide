@@ -3,7 +3,7 @@ title: Web Elements
 layout: article
 ---
 
-Every piece of content we publish is supported by a number of smaller pieces. This section lays out our style in regards to these web elements, and explains our approach to the tricky art of SEO.
+Every piece of content we publish contains a collection of small chunks, each one with a specific purpose that impacts presentation, SEO, accessibility, and a host of other purposes. This section lays the uses cases for these web elements. You can also see [Writing For Accessibility](/12-writing-for-accessibility.html.md) and [Writing For SEO](/19-writing-for-seo.html.md)
 
 ## Guidelines
 
@@ -13,38 +13,9 @@ Alt text is a way to label images, and it's especially important for people who 
 
 For more on how and why we use alt text, read the [Accessibility](/12-writing-for-accessibility.html.md) section.
 
-### Buttons
-
-Buttons should always contain actions. The language should be clear and concise. Capitalize every word, including articles. It’s OK to use an ampersand in button copy.
-
-Standard website buttons include:
-
-- Log In
-- Sign Up Free
-- Subscribe
-- Email Us
-
-### Checkboxes
-
-Use sentence case for checkboxes.
-
-### Drop-down menus
-
-Use title case for menu names and sentence case for menu items.
-
-### Forms
-
-Form titles should clearly and quickly explain the purpose of the form.
-
-Use title case for form titles and sentence case for form fields.
-
-Keep forms as short as possible.
-
-Only request information that we need and intend to use. Don’t ask for information that could be considered private or personal, including gender. If you need to ask for gender, provide a field the user can fill in on their own, not a drop-down menu. 
-
 ### Headings and subheadings
 
-Headings and subheadings organize content for readers. Be generous and descriptive.
+Headings and subheadings organize content for readers, and are an important element that allow search engines to find and index your content. Be generous and descriptive.
 
 Headings (H1) give people a taste of what they’re about to read. Use them for page and blog titles.
 
@@ -55,6 +26,8 @@ Headings and subheadings should be organized in a hierarchy, with heading first,
 Include the most relevant keywords in your headings and subheadings, and make sure you cover the main point of the content.
 
 Use title case, unless the heading is a punctuated sentence. If the heading is a punctuated sentence, use sentence case. Use sentence case for subheadings regardless of end punctuation.
+
+Always use heading styles from the drop down in your editor for these use cases, doing things like simply bolding text on its own line will not bring the same benefits, and causes problems for assistive devices.
 
 ### Links
 
@@ -69,11 +42,9 @@ If a link comes at the end of a sentence or before a comma, don’t link the pun
 
 Don’t say things like “Click here!” or “Click for more information” or “Read this.” Write the sentence as you normally would, and link relevant keywords.
 
-Links should look different than regular copy, strong text, or emphasis text. They should have a hover state that communicates they’re interactive, and should have a distinct active and visited state. When setting the hover state of links, be sure to include focus state as well, to help readers using assistive technologies and touch devices.
-
 ### Lists
 
-Use lists to present steps, groups, or sets of information. Give context for the list with a brief introduction. Number lists when the order is important, like when you’re describing steps of a process. Don’t use numbers when the list’s order doesn’t matter. 
+Use lists to present steps, groups, or sets of information. Give context for the list with a brief introduction. Number lists when the order is important, like when you’re describing steps of a process. Don’t use numbers when the list’s order doesn’t matter. Use bullets instead.  
 
 If one of the list items is a complete sentence, use proper punctuation and capitalization on all of the items. If list items are not complete sentences, don’t use punctuation, but do capitalize the first word of each item.
 
