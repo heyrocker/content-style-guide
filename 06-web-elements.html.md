@@ -27,7 +27,7 @@ Include the most relevant keywords in your headings and subheadings, and make su
 
 Use title case, unless the heading is a punctuated sentence. If the heading is a punctuated sentence, use sentence case. Use sentence case for subheadings regardless of end punctuation.
 
-Always use heading styles from the drop down in your editor for these use cases, doing things like simply bolding text on its own line will not bring the same benefits, and causes problems for assistive devices.
+Always use heading styles from the drop down in your editor for these use cases. Doing things like simply bolding text on its own line will not bring the same benefits, and causes problems for assistive devices.
 
 ### Links
 
@@ -48,24 +48,6 @@ Use lists to present steps, groups, or sets of information. Give context for the
 
 If one of the list items is a complete sentence, use proper punctuation and capitalization on all of the items. If list items are not complete sentences, don’t use punctuation, but do capitalize the first word of each item.
 
-### Navigation
-
-Use title case for main or global navigation. Use sentence case for subnavigation.
-
-Navigation links should be clear and concise.
-
-### Radio Buttons
-
-Use title case for headings and sentence case for button fields.
-
-### Related articles
-
-Sometimes a long piece of copy lends itself to a list of related links at the end. Don’t go overboard—4 is usually plenty.
-
-Related articles should appear in a logical order, following the step down/step up rule: The first article should be a step down in complexity from the current article. The second one should be a step up in complexity to a more advanced article.
-
-If you can, avoid repeating links from the body text in related articles.
-
 ### Titles
 
 Titles organize pages and guide readers. A title appears at the beginning of a page or section and briefly describes the content that follows.
@@ -73,6 +55,8 @@ Titles organize pages and guide readers. A title appears at the beginning of a p
 Titles are (you guessed it) in title case.
 
 Don’t use punctuation in a title unless the title is a question.
+
+Titles should be no more than 60 characters if possible, otherwise they will get truncated when the page is shown in search results.
 
 ## SEO
 
@@ -83,3 +67,5 @@ We write for humans, not machines. We don't use gross SEO techniques like keywor
 * Use descriptive headings to structure your page and highlight important information.
 
 * Give every image descriptive alt text.
+
+For more information see [Writing For SEO](/19-writing-for-seo.html.md).
