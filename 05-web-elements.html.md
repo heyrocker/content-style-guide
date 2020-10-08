@@ -52,8 +52,6 @@ If one of the list items is a complete sentence, use proper punctuation and capi
 
 Titles organize pages and guide readers. A title appears at the beginning of a page or section and briefly describes the content that follows.
 
-Titles are (you guessed it) in title case.
-
 Don’t use punctuation in a title unless the title is a question.
 
 Titles should be no more than 60 characters if possible, otherwise they will get truncated when the page is shown in search results.
