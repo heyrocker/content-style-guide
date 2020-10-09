@@ -1,5 +1,5 @@
 ---
-title: Writing Technical Content
+title: Creating Blog and News Content
 layout: article
 ---
 

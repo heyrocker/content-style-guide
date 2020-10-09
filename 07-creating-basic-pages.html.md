@@ -1,5 +1,5 @@
 ---
-title: Writing Blog Posts
+title: Creating Basic Pages
 layout: article
 ---
 
